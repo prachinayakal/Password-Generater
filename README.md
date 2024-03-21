@@ -2,7 +2,7 @@
 
 A simple web application that generates random passwords. The generated password can be copied to the clipboard with a single click.
 
-![Random Password Generator](/path/to/gif)
+![Password Generator](https://github.com/prachinayakal/Password-Generater/assets/121372605/679d6745-a4f5-408a-9fbe-b832caf484d6)
 
 ## Demo
 
