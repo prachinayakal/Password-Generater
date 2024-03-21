@@ -1,6 +1,6 @@
 # Random Password Generator
 
-A simple web application that generates random passwords based on user-defined criteria. The generated password can be copied to the clipboard with a single click.
+A simple web application that generates random passwords. The generated password can be copied to the clipboard with a single click.
 
 ![Random Password Generator](/path/to/gif)
 
@@ -10,8 +10,7 @@ You can view a live demo of the Random Password Generator [here](https://your-de
 
 ## Features
 
-- Generate random passwords with customizable criteria:
-  - Password length
+- Generated random password contain:
   - Inclusion of uppercase letters
   - Inclusion of lowercase letters
   - Inclusion of numbers
@@ -22,12 +21,9 @@ You can view a live demo of the Random Password Generator [here](https://your-de
 ## How to Use
 
 1. Open the Random Password Generator web page.
-2. Choose the desired criteria for your password:
-   - Adjust the password length using the slider.
-   - Toggle options for including uppercase letters, lowercase letters, numbers, and special characters.
-3. Click the "Generate Password" button.
-4. Your generated password will appear in the designated area.
-5. Click the "Copy" button to copy the password to your clipboard.
+2. Click the "Generate Password" button.
+3. Your generated password will appear in the designated area including uppercase letters, lowercase letters, numbers, and special characters.
+4. Click the "Copy" button to copy the password to your clipboard.
 
 ## Technologies Used
 
