@@ -33,8 +33,4 @@ You can view a live demo of the Random Password Generator [here](https://your-de
 
 ## Credits
 
-This project was created by [Your Name]. Feel free to contribute by submitting pull requests or reporting issues [here](https://link-to-issues-page).
-
-## License
-
-This project is licensed under the [MIT License](/path/to/LICENSE).
+This project was created by Prachi Nayakal. Feel free to contribute by submitting pull requests or reporting issues https://github.com/prachinayakal/Password-Generater/issues.
