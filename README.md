@@ -6,7 +6,7 @@ A simple web application that generates random passwords. The generated password
 
 ## Demo
 
-You can view a live demo of the Random Password Generator [here](https://your-demo-url.com).
+You can view a live demo of the Random Password Generator  https://prachinayakal.github.io/Password-Generater/.
 
 ## Features
 
